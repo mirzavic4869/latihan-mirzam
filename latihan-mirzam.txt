@@ -4,3 +4,5 @@ Latihan Pemrograman
 - CSS layouting
 - CSS framework (bootstrap)
 - Javascript dasar
+- Javascript DOM
+- Version Control System
