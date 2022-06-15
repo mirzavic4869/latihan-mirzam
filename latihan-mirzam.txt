@@ -6,3 +6,5 @@ Latihan Pemrograman
 - Javascript dasar
 - Javascript DOM
 - Version Control System
+- HTML 5
+- Sass
