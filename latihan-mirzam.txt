@@ -1,0 +1,6 @@
+Latihan Pemrograman 
+- HTML dasar
+- CSS dasar
+- CSS layouting
+- CSS framework (bootstrap)
+- Javascript dasar
