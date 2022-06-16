@@ -1,0 +1,5 @@
+Alur Belajar Frontend Developer
+
+- HTML
+- CSS
+- Javascript
