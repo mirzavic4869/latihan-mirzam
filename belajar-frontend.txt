@@ -1,6 +1,8 @@
 Alur Belajar Frontend Developer
 
 - HTML
+ a. HTML dasar
+ b. HTML 5
 - CSS
   a. CSS dasar
   b. CSS layout
@@ -8,6 +10,7 @@ Alur Belajar Frontend Developer
 - Javascript
   a. Javascript Dasar
   b. Javascript DOM
-- Javascript Framework
-  a. VueJS
-  b. ReactJs
+- Javascript framework
+  a. AngularJS
+  b. ReactJS
+
